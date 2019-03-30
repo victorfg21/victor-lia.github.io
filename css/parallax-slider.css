@@ -93,8 +93,8 @@
 	margin: 3px;
 	cursor: pointer;
 	box-shadow: 
-		1px 1px 1px rgba(0,0,0,0.1) inset, 
-		1px 1px 1px rgba(255,255,255,0.1);
+		1px 1px 1px rgba(0, 0, 0, 0.500) inset, 
+		1px 1px 1px rgba(255, 255, 255, 0.500);
 }
 .da-dots span.da-dots-current:after{
 	content: '';
