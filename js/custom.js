@@ -16,15 +16,15 @@ $(window).ready(function () {
 	$.vegas('slideshow', {
 		backgrounds: [
 			{
-				src: 'https://i.ibb.co/9VVx9zL/11.jpg',
+				src: 'https://i.ibb.co/h9n2jHV/10.jpg',
 				fade: 1000
 			},
 			{
-				src: 'https://i.ibb.co/YhL4PxK/10.jpg',
+				src: 'https://i.ibb.co/ZHcDPK8/8.jpg',
 				fade: 1000
 			},
 			{
-				src: 'https://i.ibb.co/YXGcHG8/7.jpg',
+				src: 'https://i.ibb.co/YRgPbwb/9.jpg',
 				fade: 1000
 			}
 		]
